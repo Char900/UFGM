@@ -1,0 +1,42 @@
+[
+{"city" : "Gryffindor",     	"mascot" : "Leos",	  	"short" : "GRF",	"homeText" : "FFFFFF",	"homeMain" : "D70000",	"homeSecondary" : "DEBF22",	"awayText" : "DD0000",	"awayMain" : "FFFFFF",  "awaySecondary" : "D70000"},
+{"city" : "Hufflepuff",   	"mascot" : "Badgers",		"short" : "HUF", 	"homeText" : "FFFFFF",	"homeMain" : "FFDE00",	"homeSecondary" : "000000",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFDE00"},
+{"city" : "Ravenclaw",     	"mascot" : "Eagles",			"short" : "RCE", 	"homeText" : "869397",	"homeMain" : "041E42",	"homeSecondary" : "977647",	"awayText" : "041E42",	"awayMain" : "FFFFFF",  "awaySecondary" : "041E42"},
+{"city" : "Slytherin",   	"mascot" : "Snakes",	    "short" : "SS", 	"homeText" : "000000",	"homeMain" : "136132",	"homeSecondary" : "C5C5C5",	"awayText" : "136132",	"awayMain" : "FFFFFF",  "awaySecondary" : "136132"},
+
+{"city" : "Casterly Rock",  		"mascot" : "Lions",	    "short" : "CRL", 	"homeText" : "FFFFFF",	"homeMain" : "900016",	"homeSecondary" : "EEC51E",	"awayText" : "EEC51E",	"awayMain" : "FFFFFF",  "awaySecondary" : "900016"},
+{"city" : "Dragonstone",    	"mascot" : "Dragons",	    	"short" : "DSD", 	"homeText" : "C10000",	"homeMain" : "000000",	"homeSecondary" : "C10000",	"awayText" : "C10000",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
+{"city" : "Winterfell",      	"mascot" : "Direwolves",		"short" : "WFD", 	"homeText" : "FFFFFF",	"homeMain" : "000000",	"homeSecondary" : "A9ACB0",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
+{"city" : "Highgarden",  	"mascot" : "Golden Roses",		"short" : "HGR", 	"homeText" : "FFFFFF",	"homeMain" : "83AF5E",	"homeSecondary" : "D7CF00",	"awayText" : "343B3A",	"awayMain" : "FFFFFF",  "awaySecondary" : "83AF5E"},
+
+{"city" : "Dorne", 	"mascot" : "Sun Spears",			"short" : "DSS", 	"homeText" : "FFD100",	"homeMain" : "FF9F33",	"homeSecondary" : "D30000",	"awayText" : "FF9F33",	"awayMain" : "FFFFFF",  "awaySecondary" : "D30000"},
+{"city" : "Bolton", 	"mascot" : "Executioners",		"short" : "BLT", 	"homeText" : "C20000",	"homeMain" : "000000",	"homeSecondary" : "FFFCDF",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "C20000"},
+{"city" : "Iron Islands",   	"mascot" : "Kraken",		"short" : "IIK", 	"homeText" : "CCB40B",	"homeMain" : "000000",	"homeSecondary" : "CCB40B",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "CCB40B"},
+{"city" : "Vale of Arryn", 	"mascot" : "Falcons",		"short" : "VAF", 	"homeText" : "FFFFFF",	"homeMain" : "001A34",	"homeSecondary" : "000000",	"awayText" : "001A34",	"awayMain" : "FFFFFF",  "awaySecondary" : "001A34"},
+
+{"city" : "RiverRun",  	"mascot" : "Trout",	  	"short" : "RRT", 	"homeText" : "FFFFFF",	"homeMain" : "053954",	"homeSecondary" : "CA4824",	"awayText" : "CA4824",	"awayMain" : "FFFFFF",  "awaySecondary" : "053954"},
+{"city" : "Storm’s End",    	"mascot" : "Stags",			"short" : "SES", 	"homeText" : "000000",	"homeMain" : "C2B627",	"homeSecondary" : "000000",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "C2B627"},
+{"city" : "Night’s Watch",    "mascot" : "Scouts",		"short" : "NWS", 	"homeText" : "A5ACAF",	"homeMain" : "000000",	"homeSecondary" : "A5ACAF",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "A5ACAF"},
+{"city" : "Beyond the Wall",       	"mascot" : "Wildlings",		"short" : "BWW", 	"homeText" : "D2FFFE",	"homeMain" : "000000",	"homeSecondary" : "00BFE3",	"awayText" : "176377",	"awayMain" : "FFFFFF",  "awaySecondary" : "00BFE3"},
+
+{"city" : "The North",    	"mascot" : "White Walkers",	  	"short" : "NWW", 	"homeText" : "FFFFFF",	"homeMain" : "09DCE9",	"homeSecondary" : "FFFFFF",	"awayText" : "09DCE9",	"awayMain" : "FFFFFF",  "awaySecondary" : "09DCE9"},
+{"city" : "Unsullied",     	"mascot" : "Warriors",		"short" : "UW", 	"homeText" : "9B9B9B",	"homeMain" : "000000",	"homeSecondary" : "847700",	"awayText" : "847700",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
+{"city" : "Grey Mountain",  	"mascot" : "Ironfist Dwarves",		"short" : "DRF", 	"homeText" : "FFFFFF",	"homeMain" : "7A6119",	"homeSecondary" : "424242",	"awayText" : "424242",	"awayMain" : "FFFFFF",  "awaySecondary" : "7A6119"},
+{"city" : "Giant",       "mascot" : "Spiders",			"short" : "SDR", 	"homeText" : "5FE700",	"homeMain" : "000000",	"homeSecondary" : "5FE700",	"awayText" : "5FE700",	"awayMain" : "FFFFFF",  "awaySecondary" : "5FE700"},
+
+{"city" : "Shire", 		"mascot" : "Hobbits",		"short" : "HOB", 	"homeText" : "E1E1E1",	"homeMain" : "59C114",	"homeSecondary" : "8C6707",	"awayText" : "8C6707",	"awayMain" : "FFFFFF",  "awaySecondary" : "59C114"},
+{"city" : "Rivendell",    	"mascot" : "Elves",		"short" : "ELF", 	"homeText" : "FFFFFF",	"homeMain" : "BFA4D0",	"homeSecondary" : "A9EBFF",	"awayText" : "BFA4D0",	"awayMain" : "FFFFFF",  "awaySecondary" : "A9EBFF"},
+{"city" : "Isengard",		"mascot" : "Orcs",			"short" : "ORC", 	"homeText" : "5C4129",	"homeMain" : "000000",	"homeSecondary" : "777777",	"awayText" : "5C4129",	"awayMain" : "FFFFFF",  "awaySecondary" : "000000"},
+{"city" : "Middle-Earth",		"mascot" : "Wizards",	  		"short" : "WIZ", 	"homeText" : "9B9B9B",	"homeMain" : "F8FFFE",	"homeSecondary" : "F5F5F5",	"awayText" : "9B9B9B",	"awayMain" : "FFFFFF",  "awaySecondary" : "869C9C"},
+
+{"city" : "Angband",      "mascot" : "Balrogs",	"short" : "AB", 	"homeText" : "D8D8D8",	"homeMain" : "000000",	"homeSecondary" : "FF8700",	"awayText" : "000000",	"awayMain" : "D8D8D8",  "awaySecondary" : "FF8700"},
+{"city" : "Fangorn Forest",     	"mascot" : "Ents",	  		"short" : "ENT", 	"homeText" : "625700",	"homeMain" : "348500",	"homeSecondary" : "34FF00",	"awayText" : "625700",	"awayMain" : "FFFFFF",  "awaySecondary" : "348500"},
+{"city" : "Rohan", 	"mascot" : "Riders",			"short" : "RR", 	"homeText" : "FFFFFF",	"homeMain" : "4E7041",	"homeSecondary" : "FFDE1E",	"awayText" : "4E7041",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFDE1E"},
+{"city" : "Gringotts", 	"mascot" : "Goblins",		"short" : "GOB", 	"homeText" : "FFFFFF",	"homeMain" : "8E0069",	"homeSecondary" : "FFD500",	"awayText" : "8E0069",	"awayMain" : "FFFFFF",  "awaySecondary" : "FFD500"},
+
+{"city" : "Azkaban",	"mascot" : "Dementors",		"short" : "AZD", 	"homeText" : "A71930",	"homeMain" : "000000",	"homeSecondary" : "54688A",	"awayText" : "A71930",	"awayMain" : "FFFFFF",  "awaySecondary" : "54688A"},
+{"city" : "Forbidden Forest",   "mascot" : "Unicorns",		"short" : "FFU", 	"homeText" : "FF21B7",	"homeMain" : "D8D8D8",	"homeSecondary" : "00E4FF",	"awayText" : "FF21B7",	"awayMain" : "FFFFFF",  "awaySecondary" : "D8D8D8"},
+{"city" : "Great Lake",   		"mascot" : "Sirens",		"short" : "GLS", 	"homeText" : "978BFF",	"homeMain" : "95FBDB",	"homeSecondary" : "FFFFFF",	"awayText" : "978BFF",	"awayMain" : "FFFFFF",  "awaySecondary" : "95FBDB"},
+{"city" : "Hogwarts",        	"mascot" : "Phoenix",		"short" : "HWP", 	"homeText" : "FFC700",	"homeMain" : "FF0000",	"homeSecondary" : "FFA700",	"awayText" : "FFC700",	"awayMain" : "FFFFFF",  "awaySecondary" : "FF0000"}
+]
+
