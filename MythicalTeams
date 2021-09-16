@@ -12,7 +12,7 @@
 {"city" : "Dorne", 	"mascot" : "Sun Spears",			"short" : "DSS", 	"homeText" : "FFD100",	"homeMain" : "FF9F33",	"homeSecondary" : "D30000",	"awayText" : "FF9F33",	"awayMain" : "FFFFFF",  "awaySecondary" : "D30000"},
 {"city" : "Bolton", 	"mascot" : "Executioners",		"short" : "BLT", 	"homeText" : "C20000",	"homeMain" : "000000",	"homeSecondary" : "FFFCDF",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "C20000"},
 {"city" : "Iron Islands",   	"mascot" : "Kraken",		"short" : "IIK", 	"homeText" : "CCB40B",	"homeMain" : "000000",	"homeSecondary" : "CCB40B",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "CCB40B"},
-{"city" : "Vale of Arryn", 	"mascot" : "Falcons",		"short" : "VAF", 	"homeText" : "FFFFFF",	"homeMain" : "001A34",	"homeSecondary" : "000000",	"awayText" : "001A34",	"awayMain" : "FFFFFF",  "awaySecondary" : "001A34"},
+{"city" : "Vale of Arryn", 	"mascot" : "Falcons",		"short" : "VAF", 	"homeText" : "FFFFFF",	"homeMain" : "001A34",	"homeSecondary" : "FFFFFF",	"awayText" : "001A34",	"awayMain" : "FFFFFF",  "awaySecondary" : "001A34"},
 
 {"city" : "RiverRun",  	"mascot" : "Trout",	  	"short" : "RRT", 	"homeText" : "FFFFFF",	"homeMain" : "053954",	"homeSecondary" : "CA4824",	"awayText" : "CA4824",	"awayMain" : "FFFFFF",  "awaySecondary" : "053954"},
 {"city" : "Storm’s End",    	"mascot" : "Stags",			"short" : "SES", 	"homeText" : "000000",	"homeMain" : "C2B627",	"homeSecondary" : "000000",	"awayText" : "000000",	"awayMain" : "FFFFFF",  "awaySecondary" : "C2B627"},
